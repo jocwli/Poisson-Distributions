@@ -1,5 +1,5 @@
 # Poisson-Distributions
-Poisson distribution code - applying to hypothetical examples
+Questions to ask: When should we use Poisson for modeling?
 
 Poisson distributions predict the probabilty of events occuring in the future given the number of events occuring in a fixed interval of time.
 
